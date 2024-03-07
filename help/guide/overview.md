@@ -1,84 +1,30 @@
 ---
-title: Adobe Content Supply Chain
-description: Adobe Content Supply Chain är en totallösning för att snabba upp och förenkla innehållsleveranskedjan med generativ AI och intelligent automatisering.
-source-git-commit: d5f4c8023e7d7964757ee71557766495d7aca64c
+title: Adobe innehållsförsörjningskedja
+description: Adobe innehållsleveranskedjan är en totallösning för att snabba upp och förenkla innehållsleveranskedjan med generativ AI och intelligent automatisering.
+source-git-commit: f979dd648619ea01e8bf6f0c4355cb3b707aa239
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
 
-# Adobe Content Supply Chain Tutorials
+# Självstudiekurser för innehållsleverantörer i Adobe
 
->[!BEGINSHADEBOX]
-
-Med Adobe verktyg för innehållsleveranskedja kan ni snabba upp företagets verksamhet genom att ge teamet möjlighet att skala innehållsproduktionen med generativ AI, öka teamets flexibilitet och snabbhet till marknaden och förbättra avkastningen och effektiviteten.
-
->[!VIDEO](https://video.tv.adobe.com/v/3424114?quality=12&learn=on)
+Adobe verktyg för innehållsleveranskedja snabbar upp era möjligheter att agera genom att ge teamet möjlighet att skala innehållsskapandet med generativ AI, öka teamets flexibilitet och snabbhet till marknaden och förbättra avkastningen och effektiviteten.
 
 En innehållsleverantörskedja för samman människor, verktyg och arbetsflöden för att effektivt planera, skapa, producera, leverera och mäta innehåll. Med kunder som kräver upplevelser av högre kvalitet i allt högre takt, i kombination med komplexiteten hos flera kanaler och format, måste varumärkena revolutionera sitt sätt att tänka på innehåll.
 
->[!ENDSHADEBOX]
+Lär dig hur du får en heltäckande process för framtagning och leverans av innehåll med hjälp av generativ AI med hjälp av dessa självstudiekurser.
 
-<table>
-    <tr style="border: 0;">
-      <td>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/workflow-and-planning.html">
-        <img alt="Arbetsflöde och planering" src="./../assets/planning-workflow.webp">
-        </a>
-        <div>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/workflow-and-planning.html">
-        <strong>Arbetsflöde och planering</strong>
-        </a>
-        </div>
-        <p>
-        <em>Effektivisera och samordna arbetet</em>
-        <p>
-      </td>
-      <td>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/creative-productivity.html">
-        <img alt="Kreativ produktivitet" src="./../assets/creative-productivity.png">
-        </a>
-        <div>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/creative-productivity.html">
-        <strong>Kreativ produktivitet</strong>
-        </a>
-        </div>
-        <p>
-        <em>Övertygande kreativa team</em>
-        <p>
-      </td>
-    </tr>
-    <tr style="border: 0;">
-      <td>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/marketing-agility.html">
-        <img alt="Marknadsföringsflexibilitet" src="./../assets/marketing-agility.webp">
-        </a>
-        <div>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/marketing-agility.html">
-        <strong>Marknadsföringsflexibilitet</strong>
-        </a>
-        </div>
-        <p>
-        <em>Ge marknadsförare och andra team möjlighet att snabbt få ut innehåll på marknaden</em>
-        <p>
-      </td>
-      <td>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/delivery-and-activation.html">
-        <img alt="Leverans och aktivering" src="./../assets/content-activation-analytics.webp">
-        </a>
-        <div>
-        <a href="https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/delivery-and-activation.html">
-        <strong>Leverans och aktivering</strong>
-        </a>
-        </div>
-        <p>
-        <em>Aktivera leverans och prestanda</em>
-        <p>
-      </td>
-    </tr>
-</table>
+
+* [Arbetsflöde och planering](workflow-and-planning.md) - Skapa sammankopplade arbetsflöden som är transparenta, snabba och effektiva.
+* [Skapa och producera innehåll](content-creation-and-production.md) - Omvandla det kreativa arbetet med generativ AI, automatisera innehållsvariationer i stor skala och ge marknadsförarna möjlighet att skapa varumärkesanpassat innehåll.
+* [Resurshantering](asset-management.md) - Centralisera, hantera och styr miljontals resurser i hela organisationen.
+* [Leverans och aktivering](delivery-and-activation.md) - Leverera smidigt innehåll i alla steg av kundresan.
+* *Rapportering och insikter* - Förbättra avkastningen på innehållets investering genom att förbättra innehållsanvändning och prestanda.
+
+<!-- * [Reporting and Insights](reporting-and-insights.md) - Enhance content ROI by improving content usage and performance. -->
 
 ## Ytterligare resurser
 
