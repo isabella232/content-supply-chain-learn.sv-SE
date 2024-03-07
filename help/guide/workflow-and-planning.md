@@ -1,27 +1,27 @@
 ---
-title: Arbetsflöde och planering - Effektivisera och snabba upp arbetet
-description: För det företag som kämpar med att knyta samman och spåra sina innehållskrav genom planeringsprocessen till innehållsproduktion och färdigställande. Brist på effektiva processer, planering, godkännanden och enhetlighet i projektövergripande data ger företagets innehållsleveranskedja både produktivitet och effektivitet.
-solution: Experience Cloud, Workfront, Creative Cloud, Experience Manager Assets
-feature-set: Experience Manager, Experience Manager Assets, Creative Cloud, Workfront
-feature: Workflow, Asset Management, Asset Processing, Collaboration, Share, People Teams and Groups, Work Management, Gen AI
-topic: Content Management, Collaboration
+title: Självstudiekurser för arbetsflöde och planering
+description: Bygg smidiga och transparenta arbetsflöden för hela innehållets livscykel.  Snabba upp gransknings- och godkännandeprocessen.  Automatisera manuella arbetsflöden.
+solution: Experience Cloud, Workfront, Creative Cloud
+feature-set: Creative Cloud, Workfront
+feature: Workflow, Collaboration, Share, People Teams and Groups, Work Management, Gen AI
+topic: Content Management, Collaboration, Artificial Intelligence
 role: Admin, User, Leader, Developer
 level: Beginner
-last-substantial-update: 2023-11-16T00:00:00Z
+last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-14154
-source-git-commit: 2ad7a5cfde323b7a6f726f98ec4c5eafd7cd4d86
+source-git-commit: ac328c68438276c1c7b0a6ea66ef9e86d73fed5f
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
 
 
-# Arbetsflöde och planering: Effektivisera och snabba upp arbetet
+# Självstudiekurser för arbetsflöde och planering
 
-Det här är till för det företag som kämpar med att knyta samman och hålla reda på sina innehållskrav - från planering, produktion och slutförande. Brist på effektiva processer, planering, godkännanden och enhetlighet i projektövergripande data ger företagets innehållsleveranskedja både produktivitet och effektivitet.
+Bygg smidiga och transparenta arbetsflöden för hela innehållets livscykel.  Snabba upp gransknings- och godkännandeprocessen.  Automatisera manuella arbetsflöden.
 
-De Adobe-lösningar som används för planering och arbetsflöde:
+Adobe-lösningar för arbetsflöde och planering:
 
 <table>
     <tr style="border: 0;">
@@ -33,19 +33,12 @@ De Adobe-lösningar som används för planering och arbetsflöde:
         <p style="margin: 0"><img alt="Frame.io" src="/help/assets/frameio-logo.png" style="width: 42px;height:42px;"></p>
         <strong>Ram.io</strong>
       </td>
-      <td style="align: center">
-        <p style="margin: 0"><img alt="Frame.io" src="/help/assets/aem-logo.png" style="width: 42px;height:42px;"></p>
-        <strong>AEM Assets</strong>
-      </td>
     </tr>
 </table>
 
-## Huvudsakliga användningsområden
-
-* Förenkla arbetsflöden och godkännanden
-* Optimera utgifter och resurser
-* Öka synligheten för kapacitet, projekt, risker och tidslinjer
-* Automatisera processerna längre fram i kedjan, som metadatataggar
+>[!TIP]
+>
+>Vårt team av produktexperter på Adobe har sammanställt en samling självstudiekurser för integrering av viktiga användningsexempel i innehållsleveranskedjan. Om du använder mer än en lösning, lär dig det bästa sättet att integrera dem!  Kolla in [Självstudiekurser för integrering av innehållsleverantörer](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## Rekommenderade kurser
 
