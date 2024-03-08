@@ -1,18 +1,18 @@
 ---
-user-guide-title: Självstudiekurser för innehållsleverantörer i Adobe
-breadcrumb-title: Självstudiekurser om innehållsleverantörer
-user-guide-desription: View Experience League tutorials on Adobe Content supply chain, the simplified promise of Adobe’s solutions to help organizations accelerate and scale content creation, improve content engagement and ROI, and deliver the content that fuels digital engagements buyers prefer.
-source-git-commit: fb7ae72b84c093627e79ddd171f703619410b637
+user-guide-title: Adobe Content Supply Chain Tutorials
+breadcrumb-title: Självstudiekurser för innehållsleveranskedja
+user-guide-desription: View Experience League tutorials on Adobe Content Supply Chain, the simplified promise of Adobe's solutions to help organizations accelerate and scale content creation, improve content engagement and ROI, and deliver the content that fuels digital engagements buyers prefer.
+source-git-commit: 77982009a37d9d15cbc5e93c7537bc4883789b28
 workflow-type: tm+mt
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 
-# Självstudiekurser för innehållsleverantörer i Adobe {#tutorials}
+# Adobe Content Supply Chain Tutorials {#tutorials}
 
-+ [[!DNL Content supply chain] självstudier](overview.md)
++ [[!DNL Content Supply Chain] Självstudiekurser](overview.md)
 + [Arbetsflöde och planering](workflow-and-planning.md)
 + [Skapa och producera innehåll](content-creation-and-production.md)
 + [Resurshantering](asset-management.md)
