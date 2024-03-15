@@ -9,7 +9,7 @@ role: Admin, User, Leader, Developer
 level: Beginner
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-14154
-source-git-commit: ac328c68438276c1c7b0a6ea66ef9e86d73fed5f
+source-git-commit: f3082975a674a13152aa92c06302e67e9f4715b6
 workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 0%
@@ -23,18 +23,8 @@ Bygg smidiga och transparenta arbetsflöden för hela innehållets livscykel.  S
 
 Adobe-lösningar för arbetsflöde och planering:
 
-<table>
-    <tr style="border: 0;">
-      <td style="align: center">
-        <p style="margin: 0"><img alt="Workfront" src="/help/assets/workfront-logo.png" style="width: 42px;height:  42px;"></p>
-        <strong>Workfront</strong>
-      </td>
-      <td style="align: center">
-        <p style="margin: 0"><img alt="Frame.io" src="/help/assets/frameio-logo.png" style="width: 42px;height:42px;"></p>
-        <strong>Ram.io</strong>
-      </td>
-    </tr>
-</table>
+* Adobe Workfront
+* Adobe Frame.io
 
 >[!TIP]
 >
