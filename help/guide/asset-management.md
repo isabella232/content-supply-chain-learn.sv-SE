@@ -9,7 +9,7 @@ role: Admin, User, Leader, Developer
 level: Beginner
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15076
-source-git-commit: f3082975a674a13152aa92c06302e67e9f4715b6
+source-git-commit: 588f3d016786a02658c3131945e5a23a47195130
 workflow-type: tm+mt
 source-wordcount: '1075'
 ht-degree: 0%
@@ -27,6 +27,7 @@ Få enkelt tillgång till och återanvänd miljontals resurser från en enda mol
 >Vårt team av produktexperter på Adobe har sammanställt en samling självstudiekurser för integrering av viktiga användningsexempel i innehållsleveranskedjan. Om du använder mer än en lösning, lär dig det bästa sättet att integrera dem!  Kolla in [Självstudiekurser för integrering av innehållsleverantörer](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## Rekommenderade kurser
+
 <div class="columns is-multiline">
   <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="[AEM Assets - Assets View] Bulk Import - Feature Video" tabIndex="0">
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
